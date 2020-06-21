@@ -7,7 +7,7 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: a73a170cb5cdef662983
+    publicKey: 2c97b1124055a700b475
     multiple: false
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
@@ -46,6 +46,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Body, name: body, widget: markdown }
           - { label: Address, name: address, widget: text }
           - { label: Phone, name: phone, widget: string }
+          - { label: Phone2, name: phone2, widget: string }
           - { label: Email Address, name: email, widget: string }
           - name: locations
             label: locations
