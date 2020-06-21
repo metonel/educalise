@@ -17,6 +17,7 @@ export const ContactPageTemplate = ({
   featuredImage,
   address,
   phone,
+  phone2,
   email,
   locations
 }) => (
@@ -46,6 +47,11 @@ export const ContactPageTemplate = ({
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
                 <Smartphone /> {phone}
+              </a>
+            )}
+            {phone2 && (
+              <a className="Contact--Details--Item" href={`tel:${phone2}`}>
+                <Smartphone /> {phone2}
               </a>
             )}
             {email && (
@@ -89,6 +95,7 @@ export const pageQuery = graphql`
         featuredImage
         address
         phone
+        phone2
         email
         locations {
           mapLink
