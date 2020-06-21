@@ -1,30 +1,28 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Asociatia Educalise
+featuredImage: 'https://ucarecdn.com/035c9a83-e62c-4431-82a7-9016c97c5043/'
+subtitle: >-
+  We truly believe supporting a child’s health and education is the best way for
+  a better future. By giving children and young people the support and resources
+  they need to achieve their full potential, our impact will have a lasting
+  effect!
+accordion: []
 meta:
-  description: This is a meta description.
+  description: Organizatia non-guvernamentala Educalise
   title: Educalise
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# Misiune
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Cream oportunitati pentru copii si tineri, pentru a le sprijini 
 
-# Features
+accesul la educatie si programe de sanatate.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+# Viziune
 
-## Get started
+Un viitor mai bun pentru copii si tineri este o Romanie mai buna.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+# Scop
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Fiecare copil merita o sansa.
