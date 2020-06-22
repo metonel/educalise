@@ -16,7 +16,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     />
 
     <section className="section">
-      <div className="container">
+      <div className="container" style={{textAlign: 'center'}}>
         <Content source={body} />
       </div>
     </section>
