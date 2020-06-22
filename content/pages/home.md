@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Asociatia Educalise
-featuredImage: 'https://ucarecdn.com/035c9a83-e62c-4431-82a7-9016c97c5043/'
+featuredImage: 'https://ucarecdn.com/1e5f8252-ec24-4e84-b347-97be12ebb14b/'
 subtitle: >-
   We truly believe supporting a child’s health and education is the best way for
   a better future. By giving children and young people the support and resources
