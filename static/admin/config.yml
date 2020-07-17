@@ -337,7 +337,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: postCategories
-    label: Post Category
+    label: Categorii Proiecte
     editor:
       preview: false
     folder: content/postCategories
