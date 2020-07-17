@@ -83,7 +83,7 @@ export class Navigation extends Component {
               </span>
             </div>
             <NavLink to="/components/">Voluntari</NavLink>
-            <NavLink to="/default/">Donatii</NavLink>
+            <NavLink to="/donatii/">Donatii</NavLink>
             <NavLink to="/default/">Media</NavLink>
             <NavLink to="/default/">Parteneri</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
