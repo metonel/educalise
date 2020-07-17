@@ -54,7 +54,7 @@
   "scripts": {
     "start": "npm run clean && npm run develop",
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "go": "gatsby develop",
     "clean": "del-cli .cache public",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
