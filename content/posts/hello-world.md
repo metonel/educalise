@@ -1,16 +1,16 @@
 ---
 template: SinglePost
-title: Red
-status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
+title: Bursa "10 de nota 10"
+status: Published
+date: '2020-09-15'
+featuredImage: 'https://ucarecdn.com/d22efa61-b562-4575-ba05-15f428600458/'
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind
+  din familii cu posibilități limitate, și impreună cu Yardi Romania au
+  achizitionat echipamentele necesare pentru ca acești copii sa poate studia în
+  condiții optime. 
 categories:
-  - category: News
+  - category: Educatie
 meta:
   canonicalLink: ''
   description: test meta description
@@ -21,37 +21,10 @@ Paragraphs are separated by a blank line.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Educația este una dintre ariile principale ale Educalise, deoarece credem cu tărie că dreptul la educație și accesul la materialele școlare nu ar trebui să fie împiedicat sau restricționat pentru nici un copil. Ne-am convins deja cu toții că școala este diferită anul acesta. Deși guvernul a făcut planuri astfel încât copiii să se întoarcă la școală ca în anii precedenți, pandemia COVID19 poate oricând răsturna lucrurile. Educalise a conceput proiectul “10 de nota 10” prin care ajutăm 10 elevi să își continue educația, în oricare dintre cele două scenarii posibile - fie înapoi la școală, fie prin școală la distanță. De ce 10? Pentru că partenerul nostru în acest proiect este @Yardi Romania, companie care în acest an sărbătorește 10 ani de prezență pe piața de IT clujeană și care se implică activ in proiecte educaționale din comunitateă locală.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind din familii cu posibilități limitate, și impreună cu Yardi Romania au achizitionat echipamentele necesare pentru ca acești copii sa poate studia în condiții optime. Bursa “10 de nota 10” cuprinde, pentru fiecare dintre elevii aleși, un pachet constând într-un calculator (cu toate accesoriile necesare: cameră web, căști, tastatură, mouse), birou pentru studiu, scaun ergonomic, lampă de birou, ghiozdan și rechizite școlare până la cel mai mic detaliu. Am ales să includem în pachet și un glob pământesc. Ne dorim ca, dincolo de sprijin pentru ora de geografie, acesta să îi inspire și să îi motiveze, ca, prin învățătură și cu perseverență, să își construiască un viitor frumos, în care să poată călători oriunde ar pune degetul pe hartă.
 
-### Unordered lists:
+În procesul de identificare al beneficiarilor proiectului “10 de nota 10” , Educalise a realizat că majoritatea copiilor de nota 10 au de la unu pana la opt frați 😊 si ne-am dorit ca toții copiii din familiile alese să fie motivați la începutul anului școlar. Din acest motiv, am decis să împletim proiectul “10 de nota 10” cu proiectul “SchoolPack”, astfel încât fiecare frate sau surioară a copului de nota 10 a primit un ghiozdan echipat. 
 
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+ Mulțumim echipei de oameni minunați de la Yardi Romania.Învățătura este singurul instrument care ne va ajuta să ne atingem visurile, să judecăm drept, să fim empatici și să evoluăm.
