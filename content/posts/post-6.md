@@ -18,15 +18,15 @@ meta:
 ---
 Clinica Ursuleț este un proiect care are ca scop familiarizarea celor mici cu vizita la spital sau la cabinetul medicului de familie. Prin joacă îi ajutăm pe micuți să treacă peste frica de a merge la medic.
 
+
+
+![](https://ucarecdn.com/5a6d9957-8b5c-437a-8ca9-1403ebe27c92/)
+
 Șase studenți de la UMF Cluj i-au introdus pe copilașii din grupa mare a gradiniței Daisy din Cluj-Napoca în lumea magică a doctorului Ursuleț. Aici, fiecare copilaș a luat parte la un exercițiu unu-la-unu al cărui scop a fost vindecarea jucăriei preferate. Copilasii s-au transformat în medici și au parcurs cu jucăria lor următorul circuit: 
 
 * Pasul 1 -  **Sala de așteptare** - unde, așteptând să fie preluați, au învățat câte degețele au la o mână și și-au construit propria radiografie.
 
 ![](https://ucarecdn.com/33a62649-840a-4a8e-81c8-7d675a4ab12e/)
-
- 
-
-![](https://ucarecdn.com/ef796e9f-3d6e-4e80-b02b-cf26aeb8498d/-/preview/-/rotate/90/)
 
 * Pasul 2 - **Anamneza** - unde au descris simptomele și istoricul jucăriei lor, care au fost cuprinse în fișa de pacient.
 
@@ -39,8 +39,6 @@ Clinica Ursuleț este un proiect care are ca scop familiarizarea celor mici cu v
 * Pasul 4 - **Sala de operație** - unde, deghizați în medici, copilalii au aplicat bandaje și plasturi jucăriilor.
 
 ![](https://ucarecdn.com/b0629bc6-8e55-4ece-b486-270adbaff90e/)
-
- 
 
 * Pasul 5 - **Farmacia** - unde, la sfârșitul circuitului, copilașii au primit "medicamente" pentru jucăriile lor și au învățat că, odată plecați de la medic, este foarte important să ia tratamentul prescris pentru a se face bine.
 
