@@ -10,15 +10,12 @@ excerpt: >-
   website is completed. You are currently reading text that is written in
   English, not any other language.
 categories:
-  - category: Sanatate
-  - category: Sanatate
+  - category: Medical
 meta:
   description: test meta description
   title: test meta title
 ---
 Clinica Ursuleț este un proiect care are ca scop familiarizarea celor mici cu vizita la spital sau la cabinetul medicului de familie. Prin joacă îi ajutăm pe micuți să treacă peste frica de a merge la medic.
-
-
 
 ![](https://ucarecdn.com/5a6d9957-8b5c-437a-8ca9-1403ebe27c92/)
 
