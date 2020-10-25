@@ -5,10 +5,9 @@ status: Published
 date: '2020-09-15'
 featuredImage: 'https://ucarecdn.com/d22efa61-b562-4575-ba05-15f428600458/'
 excerpt: >-
-  Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind
-  din familii cu posibilități limitate, și impreună cu Yardi Romania au
-  achizitionat echipamentele necesare pentru ca acești copii sa poate studia în
-  condiții optime. 
+  Zece copii cu rezultate excepționale la școală au fost beneficiarii Bursei "10
+  de nota 10". Acești elevi au primit de la Educalise un colțisor de studiu
+  complet echipat pentru a putea studia în condiții optime.
 categories:
   - category: Educatie
 meta:
@@ -17,9 +16,9 @@ meta:
   noindex: false
   title: test meta title
 ---
-Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind din familii cu posibilități limitate, și impreună cu Yardi Romania au achizitionat echipamentele necesare pentru ca acești copii sa poate studia în condiții optime. 
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+
+![Test Image](https://ucarecdn.com/be7810e3-f309-491b-9e1e-245e12fa3883/)
 
 Educația este una dintre ariile principale ale Educalise, deoarece credem cu tărie că dreptul la educație și accesul la materialele școlare nu ar trebui să fie împiedicat sau restricționat pentru nici un copil. Ne-am convins deja cu toții că școala este diferită anul acesta. Deși guvernul a făcut planuri astfel încât copiii să se întoarcă la școală ca în anii precedenți, pandemia COVID19 poate oricând răsturna lucrurile. Educalise a conceput proiectul “10 de nota 10” prin care ajutăm 10 elevi să își continue educația, în oricare dintre cele două scenarii posibile - fie înapoi la școală, fie prin școală la distanță. De ce 10? Pentru că partenerul nostru în acest proiect este @Yardi Romania, companie care în acest an sărbătorește 10 ani de prezență pe piața de IT clujeană și care se implică activ in proiecte educaționale din comunitateă locală.
 
