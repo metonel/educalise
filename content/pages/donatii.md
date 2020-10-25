@@ -1,7 +1,7 @@
 ---
 template: DonatiiPage
 slug: donatii
-title: Donatii
+title: Sprijină-ne activitatea!
 featuredImage: 'https://ucarecdn.com/aca25c86-c543-4848-a94a-897aa561eee6/'
 subtitle: Ajuta-ne sa ajutam! (aici schimbati voi in ce vreti )
 section1: REDIRECTIONATI 2%
