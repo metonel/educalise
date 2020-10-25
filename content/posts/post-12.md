@@ -21,4 +21,4 @@ Atât crocodilul, cât și avionul sunt compuse din jocuri educaționale, menite
 
 Fiecare jucarie poate capta atenția a cinci copilasi simultan, iar toate jocurile cuprinse sunt realizate din lemn, fără părti detașabile care ar putea fi periculoase pentru cei mai mici dintre pacienți. 
 
-Ramâneți pe aproape, proiectul continuă în mai multe spitale pe care, odată ieșiti din pandemie, copii le lor găsi mai colorate!
+Ramâneți pe aproape, proiectul continuă în mai multe spitale pe care, odată ieșiti din pandemie, copii le vor găsi mai colorate!
