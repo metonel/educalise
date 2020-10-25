@@ -13,16 +13,14 @@ meta:
   description: Organizatia non-guvernamentala Educalise
   title: Educalise
 ---
-# Misiune
+## Misiune
 
-Cream oportunitati pentru copii si tineri, pentru a le sprijini 
+ Sprijinim accesul la educație și programe de sănătate pentru copii și tineri.
 
-accesul la educatie si programe de sanatate.
+## Viziune
 
-# Viziune
+Un viitor mai bun pentru copiii de astăzi contribuie la Românie mai bună mâine.
 
-Un viitor mai bun pentru copii si tineri este o Romanie mai buna.
+## Scop
 
-# Scop
-
-Fiecare copil merita o sansa.
+Fiecare copil merită o șansă.
