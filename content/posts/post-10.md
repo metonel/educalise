@@ -1,18 +1,21 @@
 ---
 template: SinglePost
-title: Cat
+title: School-Pack 2020
 status: Published
-date: '2018-03-28'
+date: '2020-09-01'
 featuredImage: >-
-  https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
+  https://ucarecdn.com/a61d0f10-ab25-4ab2-9498-efded23e2d9d/-/crop/2869x694/0,355/-/preview/
 excerpt: This is an excerpt of Post Two
 categories:
-  - category: Updates
+  - category: Educatie
 meta:
   description: test meta description
   title: test meta title
 ---
+Ajută-ne să trimitem un copil la școală! Tu donezi un ghiozdan echipat sau, dacă nu dorești să mergi la cumpărături (recomandat), suma de bani necesară achizionării unui ghiozdan echipat. Educalise se îngrijește ca ghiozdanul pregătit sau sponsorizat de tine să ajungă la un copil care are nevoie de el!
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+Ghiozdanele sunt pregătite și multe dintre ele deja au ajuns la elevii silitori care au nevoie de ele!
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+După tura de ghiozdane împărțite în jud. Vâlcea, o altă parte din ghiozdanele achiziționate au fost dăruite copiilor cu rezultate bune pe care ni i-a recomandat corpul profesoral al școlii din satul Lisa, jud. Brașov. Nu am prins toți copilașii la poză, dar vă atașăm măcar câteva imagini, să vă bucurați împreună cu noi de bucuria copiilor la primirea darului. Nu ne oprim aici, continuăm proiectele pentru școală și educație!
+
+Întoși din Țara Făgărașului am pornit spre meleaguri mai apropiate și am dăruit ultimele ghiozdane pregătite cu drag în cadrul campaniei SchoolPack 2020 în comuna Cătina, poposind la copii din Feldioara, Copru, Valea Caldă și bineînțeles, Cătina, locul unde copiii se întâlnesc, în scenariul verde, la școală.
