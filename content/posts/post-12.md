@@ -9,6 +9,8 @@ excerpt: >-
   cinci copilasi simultan, iar toate jocurile cuprinse sunt realizate din lemn,
   fără părti detașabile care ar putea fi periculoase pentru cei mai mici dintre
   pacienți. 
+categories:
+  - category: Medical
 meta:
   description: test meta description
   title: test meta title
