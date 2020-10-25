@@ -54,7 +54,3 @@ Continuăm să dăruim măștile chirurgicale pe care voi le oferiți cadrelor m
 ![](https://ucarecdn.com/203f7d9b-b234-47e1-b530-800f91f75c98/)
 
 ![](https://ucarecdn.com/18fa1bb1-1ad9-4615-a89b-b1b2aae0312b/)
-
-
-
-text
