@@ -18,8 +18,6 @@ meta:
 ---
 Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13 ani, unul dintre ei cu un handicap mediu. Mamele băieților (fiicele și o nepoată a bunicuței Irina) au dispărut din peisaj, iar tatăl Lucicăi, fiu de-al doamnei Irina, este in penitenciar. În niște condiții inumane bunica se ocupă de toți și încearcă  din răsputeri să îi crească.
 
-
-
 ![](https://ucarecdn.com/c4bd2a93-d0f0-43d5-9887-0a98edf26892/)
 
 ![](https://ucarecdn.com/5375bc6a-a9fd-4b05-b20b-3931a71c0172/)
@@ -29,8 +27,6 @@ Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13
 ![Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.](https://ucarecdn.com/29ed24bc-f5a7-40c2-b777-f2b5e5a882df/ "Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.")
 
 ![](https://ucarecdn.com/91d0a506-c4ff-41e0-873a-5a354be70a40/)
-
-
 
 Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost izolat, am continuat  cu renovarea interiorului: geamuri termopan, ușă la intrare, izolarea și îndreptarea pereților, despărțirea camerelor fără ușă și montarea unei sobe noi care să nu mai afume locuința.
 
