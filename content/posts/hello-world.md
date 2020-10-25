@@ -9,15 +9,13 @@ excerpt: >-
   de nota 10". Acești elevi au primit de la Educalise un colțisor de studiu
   complet echipat pentru a putea studia în condiții optime.
 categories:
-  - category: Educatie
+  - category: Educație
 meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
   title: test meta title
 ---
-
-
 ![Test Image](https://ucarecdn.com/be7810e3-f309-491b-9e1e-245e12fa3883/)
 
 Educația este una dintre ariile principale ale Educalise, deoarece credem cu tărie că dreptul la educație și accesul la materialele școlare nu ar trebui să fie împiedicat sau restricționat pentru nici un copil. Ne-am convins deja cu toții că școala este diferită anul acesta. Deși guvernul a făcut planuri astfel încât copiii să se întoarcă la școală ca în anii precedenți, pandemia COVID19 poate oricând răsturna lucrurile. Educalise a conceput proiectul “10 de nota 10” prin care ajutăm 10 elevi să își continue educația, în oricare dintre cele două scenarii posibile - fie înapoi la școală, fie prin școală la distanță. De ce 10? Pentru că partenerul nostru în acest proiect este @Yardi Romania, companie care în acest an sărbătorește 10 ani de prezență pe piața de IT clujeană și care se implică activ in proiecte educaționale din comunitateă locală.
