@@ -18,21 +18,15 @@ meta:
 ---
 Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13 ani, unul dintre ei cu un handicap mediu. Mamele băieților (fiicele și o nepoată a bunicuței Irina) au dispărut din peisaj, iar tatăl Lucicăi, fiu de-al doamnei Irina, este in penitenciar. În niște condiții inumane bunica se ocupă de toți și încearcă  din răsputeri să îi crească.
 
-![](https://ucarecdn.com/c4bd2a93-d0f0-43d5-9887-0a98edf26892/)
+Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost izolat, am continuat  cu renovarea interiorului: geamuri termopan, ușă la intrare, izolarea și îndreptarea pereților, despărțirea camerelor fără ușă și montarea unei sobe noi care să nu mai afume locuința.
 
-![]()
+
 
 ![](https://ucarecdn.com/12017ca3-08cd-4a21-9bce-ea68b671f609/-/preview/-/enhance/13/)
 
-![Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.](https://ucarecdn.com/29ed24bc-f5a7-40c2-b777-f2b5e5a882df/ "Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.")
 
-
-
-Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost izolat, am continuat  cu renovarea interiorului: geamuri termopan, ușă la intrare, izolarea și îndreptarea pereților, despărțirea camerelor fără ușă și montarea unei sobe noi care să nu mai afume locuința.
 
 ![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
-
-
 
 ![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
 
@@ -53,8 +47,6 @@ Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost 
 ![](https://ucarecdn.com/c0ef8eee-6589-4f54-91e6-7650eff05684/)
 
 ![](https://ucarecdn.com/e23d5361-6968-4fdb-bc5c-a42b54d32122/)
-
-
 
 ![](https://ucarecdn.com/9c761073-7500-4dd4-a236-ce992469dae1/)
 
