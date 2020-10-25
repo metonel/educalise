@@ -19,8 +19,6 @@ meta:
 ---
 Împreună putem trece peste orice. Educalise a donat 6000 de măști chirurgicale în lunile martie-aprilie personalului medical aflat în luptă cu virusul SARS-COVID-19.
 
-
-
 ![Test Image](https://ucarecdn.com/2226f9c9-5034-464b-a8cb-98a43a903d44/-/crop/1200x423/0,596/-/preview/)
 
 Pe parcurs ce ajung la noi comenzile, continuăm livrările de echipamente de protecție. O livrare de măști a ajuns  la Pediatrie III, iar zilele trecute au fost predate vizierele și măștile achiziționate pentru Clinica Ginecologie 1. 
@@ -34,8 +32,6 @@ Pe parcurs ce ajung la noi comenzile, continuăm livrările de echipamente de pr
 Echipate corespunzător cu măști si mănuși, la plecare am făcut o poza din mers cu portarul care ne-a întâmpinat - ca de fiecare dată - cu căldură și optimism. Avem încredere ca totul va fi bine. Trebuie doar să respectăm măsurile și să nu ne descurajăm!
 
 ![](https://ucarecdn.com/9bef09b6-3fb3-4f2f-a079-0976b8542b28/)
-
-
 
 Continuăm să dăruim măștile chirurgicale pe care voi le oferiți cadrelor medicale prin donațiile voastre. Eroii zilei sunt medicii și personalul medical de la Spitalul Municipal Cluj-Napoca, cărora le-am lăsat 1.000 de măsti. Nu de ajuns, dar - pe termen scurt - sperăm să fie de folos!
 
