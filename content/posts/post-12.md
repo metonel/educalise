@@ -2,7 +2,7 @@
 template: SinglePost
 title: Jucării de perete
 status: Published
-date: '2018-05-25'
+date: '2019-05-23'
 featuredImage: 'https://ucarecdn.com/f2d430f6-a9f7-4085-94f2-070cf1818ce2/'
 excerpt: >-
   Montăm jucării educaționale în spitale. Fiecare jucarie poate capta atenția a
