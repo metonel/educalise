@@ -20,15 +20,19 @@ Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13
 
 ![](https://ucarecdn.com/c4bd2a93-d0f0-43d5-9887-0a98edf26892/)
 
-![](https://ucarecdn.com/5375bc6a-a9fd-4b05-b20b-3931a71c0172/)
+![]()
 
 ![](https://ucarecdn.com/12017ca3-08cd-4a21-9bce-ea68b671f609/-/preview/-/enhance/13/)
 
 ![Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.](https://ucarecdn.com/29ed24bc-f5a7-40c2-b777-f2b5e5a882df/ "Renovarea a început cu izolarea acoperișului locuinței sociale în care trăiește familia.")
 
-![](https://ucarecdn.com/91d0a506-c4ff-41e0-873a-5a354be70a40/)
+
 
 Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost izolat, am continuat  cu renovarea interiorului: geamuri termopan, ușă la intrare, izolarea și îndreptarea pereților, despărțirea camerelor fără ușă și montarea unei sobe noi care să nu mai afume locuința.
+
+![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
+
+
 
 ![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
 
@@ -50,7 +54,7 @@ Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost 
 
 ![](https://ucarecdn.com/e23d5361-6968-4fdb-bc5c-a42b54d32122/)
 
-![](https://ucarecdn.com/b3c5084a-be7d-47b8-876c-467eb7d0fc27/)
+
 
 ![](https://ucarecdn.com/9c761073-7500-4dd4-a236-ce992469dae1/)
 
