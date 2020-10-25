@@ -27,3 +27,7 @@ Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind d
 În procesul de identificare al beneficiarilor proiectului “10 de nota 10” , Educalise a realizat că majoritatea copiilor de nota 10 au de la unu pana la opt frați 😊 si ne-am dorit ca toții copiii din familiile alese să fie motivați la începutul anului școlar. Din acest motiv, am decis să împletim proiectul “10 de nota 10” cu proiectul “SchoolPack”, astfel încât fiecare frate sau surioară a copului de nota 10 a primit un ghiozdan echipat. 
 
  Mulțumim echipei de oameni minunați de la Yardi Romania.Învățătura este singurul instrument care ne va ajuta să ne atingem visurile, să judecăm drept, să fim empatici și să evoluăm.
+
+![]()
+
+![]()
