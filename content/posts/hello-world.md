@@ -17,7 +17,7 @@ meta:
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
+Educalise a identificat 10 copii cu rezultate deosebite la școală, provenind din familii cu posibilități limitate, și impreună cu Yardi Romania au achizitionat echipamentele necesare pentru ca acești copii sa poate studia în condiții optime. 
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
