@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 'Bunica Irina '
+title: 'Bunica Irina  '
 status: Published
 date: '2019-05-25'
 featuredImage: >-
