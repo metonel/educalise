@@ -5,11 +5,7 @@ status: Published
 date: '2020-05-15'
 featuredImage: >-
   https://ucarecdn.com/6c877fcd-fb3c-4360-bad1-53033fca3a27/-/crop/688x525/120,154/-/preview/
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+excerpt: jjjjj
 categories:
   - category: Social
 meta:
