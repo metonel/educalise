@@ -7,8 +7,8 @@ featuredImage: >-
   https://ucarecdn.com/78d9fb3f-bf39-4061-bf60-a30e2af74b7b/-/crop/1200x1019/0,271/-/preview/
 excerpt: >-
   Împreună putem trece peste orice! Educalise a donat 6000 de măști chirurgicale
-  în lunile martie-aprilie personalului medical aflat în luptă cu virusul
-  SARS-COVID-19.
+  și 200 de viziere în lunile martie-aprilie personalului medical aflat în luptă
+  cu virusul SARS-COVID-19.
 categories:
   - category: Medical
 meta:
@@ -17,7 +17,7 @@ meta:
   noindex: false
   title: test meta title
 ---
-Împreună putem trece peste orice. Educalise a donat 6000 de măști chirurgicale în lunile martie-aprilie personalului medical aflat în luptă cu virusul SARS-COVID-19.
+Împreună putem trece peste orice! Educalise a donat 6000 de măști chirurgicale și 200 de viziere în lunile martie-aprilie personalului medical aflat în luptă cu virusul SARS-COVID-19.
 
 ![Test Image](https://ucarecdn.com/2226f9c9-5034-464b-a8cb-98a43a903d44/-/crop/1200x423/0,596/-/preview/)
 
