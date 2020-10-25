@@ -1,13 +1,14 @@
 ---
 template: HomePage
 slug: ''
-title: Asociatia Educalise
+title: Asociația Educalise
 featuredImage: 'https://ucarecdn.com/1e5f8252-ec24-4e84-b347-97be12ebb14b/'
 subtitle: >-
-  We truly believe supporting a child’s health and education is the best way for
-  a better future. By giving children and young people the support and resources
-  they need to achieve their full potential, our impact will have a lasting
-  effect!
+  Credem cu tărie că ghidarea copiilor către învățătură și facilitarea accesului
+  lor la programe de educație medicală  sunt cele mai bune căi pentru un viitor
+  mai bun. Oferind copiilor și tinerilor sprijinul și resursele de care au
+  nevoie pentru a-și atinge potențialul, vom avea un impact de durată în
+  societate!
 accordion: []
 meta:
   description: Organizatia non-guvernamentala Educalise
