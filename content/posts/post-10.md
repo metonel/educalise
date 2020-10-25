@@ -7,12 +7,12 @@ featuredImage: >-
   https://ucarecdn.com/a61d0f10-ab25-4ab2-9498-efded23e2d9d/-/crop/2869x694/0,355/-/preview/
 excerpt: This is an excerpt of Post Two
 categories:
-  - category: Educatie
+  - category: Educație
 meta:
   description: test meta description
   title: test meta title
 ---
-Ajută-ne să trimitem un copil la școală! Tu donezi un ghiozdan echipat sau, dacă nu dorești să mergi la cumpărături (recomandat), suma de bani necesară achizionării unui ghiozdan echipat. Educalise se îngrijește ca ghiozdanul pregătit sau sponsorizat de tine să ajungă la un copil care are nevoie de el!
+Ajută-ne să trimitem un copil la școală! Tu donezi un ghiozdan echipat sau, dacă nu dorești să mergi la cumpărături (recomandat), suma de bani necesară achizionării unui ghiozdan echipat. Educalise se îngrijește ca ghiozdanul pregătit sau sponsorizat de tine să ajungă la un copil care are nevoie de el!
 
 Ghiozdanele sunt pregătite și multe dintre ele deja au ajuns la elevii silitori care au nevoie de ele!
 
