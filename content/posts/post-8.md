@@ -24,9 +24,7 @@ Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost 
 
 ![](https://ucarecdn.com/12017ca3-08cd-4a21-9bce-ea68b671f609/-/preview/-/enhance/13/)
 
-
-
-![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
+![]()
 
 ![](https://ucarecdn.com/a831c6c3-0523-4881-9ae6-88c34ab0cf37/)
 
