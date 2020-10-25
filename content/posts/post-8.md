@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: River
+title: Bunica Irina și cei cinci nepoți
 status: Published
-date: '2018-05-25'
+date: '2019-05-25'
 featuredImage: >-
   https://ucarecdn.com/d6ad4f3e-40a1-49cf-8cf0-f06a25d08544/-/crop/1690x1484/0,882/-/preview/
 excerpt: >-
@@ -14,7 +14,10 @@ meta:
   description: test meta description
   title: test meta title
 ---
+Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13 ani - Lucica, Lucian Mare, Ionut, Lucian Mic și Raducu(care are un handicap mediu). Mamele copiilor (fiicele și o nepoată a bunicuței Irina) au dispărut din peisaj, iar tatăl Lucicăi, fiu de-al doamnei Irina, este in penitenciar. În niște condiții inumane bunica se ocupă de toți și încearcă  din răsputeri să îi crească.
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+Casa înainte de renovare:
 
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+
+
+Casa după renovarea, la nici un an de la preluarea cazului social:
