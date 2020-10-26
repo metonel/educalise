@@ -9,10 +9,7 @@ subtitle: >-
   mai bun. Oferind copiilor și tinerilor sprijinul și resursele de care au
   nevoie pentru a-și atinge potențialul, vom avea un impact de durată în
   societate!
-accordion:
-  - content: |
-      test 
-    title: where
+accordion: []
 meta:
   description: Organizatia non-guvernamentala Educalise
   title: Educalise
