@@ -16,6 +16,8 @@ meta:
 ---
 ## Misiune . Scop . Obiective
 
+
+
 ## Ce ne dorim?
 
 Ne dorim ca fiecare copil să aibă șansa la o viață mai bună, mai prosperă și mai sănătoasă. Prin activitățile noastre sprijinim accesul la educație și programe de sănătate pentru copii și tineri, cu precădere cei care provin din medii defavorizate.
