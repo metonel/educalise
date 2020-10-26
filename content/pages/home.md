@@ -14,14 +14,12 @@ meta:
   description: Organizatia non-guvernamentala Educalise
   title: Educalise
 ---
-## Misiune
+## Misiune . Scop . Obiective 
 
- Sprijinim accesul la educație și programe de sănătate pentru copii și tineri.
+## Ce ne dorim?
 
-## Viziune
+Ne dorim ca fiecare copil să aibă șansa de a avea o viață mai bună, mai prosperă și mai sănătoasă. Prin activitățile noastre sprijinim accesul la educație și programe de sănătate pentru copii și tineri, cu precădere cei care provin din medii defavorizate.
 
-Un viitor mai bun pentru copiii de astăzi contribuie la Românie mai bună mâine.
+Credem cu tărie ca educația și sănătatea copiilor de astăzi sunt factori esențiali pentru dezvoltarea întregii societăți de mâine.
 
-## Scop
-
-Fiecare copil merită o șansă.
+Contribuim la acest scop prin toate [proiectele noastre](https://happy-swirles-c4c6a1.netlify.app/blog/) care se încadrează in trei mari arii de activitate: educație, sănătate și social.
