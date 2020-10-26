@@ -24,10 +24,6 @@ Suntem convinși că educația și sănătatea copiilor de astăzi sunt factori 
 
 Contribuim la acest scop prin toate [proiectele noastre](https://happy-swirles-c4c6a1.netlify.app/blog/) care se încadrează in trei mari arii de activitate: educație, medical și social.
 
-
-
-
-
 ## Cine suntem?
 
 Suntem o asociație non-profit, înființată în anul 2019, fondată pe o serie de activități de voluntariat și fapte bune pe care am început să le desfășurăm încă din anul 2017. Formal, suntem Cristina (de profesie jurist) si Mădălina (de profesie economist), însă tot ceea ce facem beneficiază de sprijinul neprețuit al voluntarilor noștri. Împreună cu voluntarii și partenerii noștri am reușit până în prezent să facem o mică diferență în comunitate și ne angajăm sa perseverăm. 
