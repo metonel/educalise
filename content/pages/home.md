@@ -18,7 +18,7 @@ meta:
 
 ## Ce ne dorim?
 
-Ne dorim ca fiecare copil să aibă șansa de a avea o viață mai bună, mai prosperă și mai sănătoasă. Prin activitățile noastre sprijinim accesul la educație și programe de sănătate pentru copii și tineri, cu precădere cei care provin din medii defavorizate.
+Ne dorim ca fiecare copil să aibă șansa la o viață mai bună, mai prosperă și mai sănătoasă. Prin activitățile noastre sprijinim accesul la educație și programe de sănătate pentru copii și tineri, cu precădere cei care provin din medii defavorizate.
 
 Suntem convinși că educația și sănătatea copiilor de astăzi sunt factori esențiali pentru dezvoltarea întregii societăți de mâine.
 
@@ -30,4 +30,4 @@ Contribuim la acest scop prin toate [proiectele noastre](https://happy-swirles-c
 
 ## Cine suntem?
 
-Suntem o asociație non-profit, înființată în anul 2019, fondată pe o serie de activități de voluntariat si fapte bune pe care am început să le desfășurăm încă din anul 2017. Formal, suntem Cristina si Roxana, însă tot ceea ce facem beneficiază de sprijinul neprețuit al voluntarilor noștri.
+Suntem o asociație non-profit, înființată în anul 2019, fondată pe o serie de activități de voluntariat si fapte bune pe care am început să le desfășurăm încă din anul 2017. Formal, suntem Cristina (de profesie jurist) si Madalina (de profesie economist), însă tot ceea ce facem beneficiază de sprijinul neprețuit al voluntarilor noștri. Am început cu pași
