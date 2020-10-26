@@ -22,7 +22,7 @@ Ne dorim ca fiecare copil să aibă șansa de a avea o viață mai bună, mai pr
 
 Suntem convinși că educația și sănătatea copiilor de astăzi sunt factori esențiali pentru dezvoltarea întregii societăți de mâine.
 
-Contribuim la acest scop prin toate [proiectele noastre](https://happy-swirles-c4c6a1.netlify.app/blog/) care se încadrează in trei mari arii de activitate: educație, sănătate și social.
+Contribuim la acest scop prin toate [proiectele noastre](https://happy-swirles-c4c6a1.netlify.app/blog/) care se încadrează in trei mari arii de activitate: educație, medical și social.
 
 
 
