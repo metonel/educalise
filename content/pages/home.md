@@ -14,9 +14,7 @@ meta:
   description: Organizatia non-guvernamentala Educalise
   title: Educalise
 ---
-## Misiune . Scop . Obiective
-
-
+## Misiune. Scop. Obiective.
 
 ## Ce ne dorim?
 
