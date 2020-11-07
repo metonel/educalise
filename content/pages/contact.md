@@ -16,6 +16,6 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-**Ne poți scrie un email sau contacta la unul dintre numerele de mai jos fie telefonic, fie pe WhatsApp.**
+Dacă dorești să intri în contact te invităm să ne lași un e-mail sau sa ne dai un telefon la oricare dintre numerele de mai jos.
 
-**Alternativ, ne poți oricând scrie un mesaj pe pagina noastră de Facebook,  iar noi îți vom răspunde în cel mai scurt timp posibil. https://www.facebook.com/educalise**
+Alternativ, ne poți oricând scrie pe Facebook, iar noi îți vom răspunde în cel mai scurt timp posibil - https://www.facebook.com/educalise
