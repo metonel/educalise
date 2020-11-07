@@ -1,13 +1,13 @@
 ---
 template: ComponentsPage
 slug: components
-title: Voluntari
+title: Voluntar
 featuredImage: >-
   https://ucarecdn.com/4d1c85cc-5603-4417-9069-114e0746e427/-/crop/1902x1004/0,44/-/preview/
-subtitle: Vrei sa devii voluntar Educalise ? Completeaza formularul de mai jos.
-section1: Vreau sa devin VOLUNTAR!
+subtitle: Vrei să devii voluntar Educalise? Completează formularul de mai jos!
+section1: Vreau să devin VOLUNTAR!
 meta:
   description: This is a meta description.
-  title: Voluntari
+  title: Voluntariat
 ---
 
