@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Vrei să iei legătura cu noi?
-featuredImage: 'https://ucarecdn.com/dfbb0e92-b694-43ea-a3c3-cdbfcf961e96/'
+featuredImage: 'https://ucarecdn.com/12761331-5327-4bbd-b680-9c54d2d2964e/'
 subtitle: Nimic mai simplu.
 address: 'Strada Șoimului nr. 22A/7, cod poștal 400486, Cluj-Napoca, jud. Cluj'
 phone: 0040 - 752 387 614
