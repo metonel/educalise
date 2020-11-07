@@ -11,31 +11,38 @@ section2: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-section3: SPONSORIZARE 20%
-section4: DONEAZA
+section3: "## SPONSORIZARE 20%\n\nAsociația Educalise este un ONG înscris în registrul asociațiilor și fundațiilor, motiv pentru care orice sponsorizată îndreptată către noi poate fi dedusă, în limitele legale de mai jos.\n\n**Deții sau administrezi un SRL?**\r\n\n Cheltuielile cu sponsorizarea se scad din IMPOZITUL PE PROFIT, în limita a 20% din acesta, dar nu mai mult de 5‰ (la mie) din cifra de afaceri. Diferența de 80% din impozitul datorat se va vira către bugetul de stat, la termenele prevăzute de codul fiscal. Sponsorizările se pot deduce trimestrial (de exemplu, sponsorizările efectuate până la 30 martie pot fi deduse, în limitele precizate mai sus, din impozitul de plată la 25 aprilie) sau anual (sponsorizările efectuate în cursul unui an fiscal vor fi deduse, în limitele legale, din impozitul de plată la 25 ianuarie al anului următor)\r\n\n**PENTRU SOCIETĂȚILE COMERCIALE CARE SUNT PLĂTITOARE DE IMPOZIT PE VENIT:**\r\n\nCheltuielile cu sponsorizarea se scad din IMPOZITUL PE VENIT, în limita a 20% din acesta, dar nu mai mult de 5‰ (la mie) din cifra de afaceri. Diferența de 80% din impozitul datorat se va vira către bugetul de stat, la termenele prevăzute de codul fiscal. Sponsorizările se pot deduce doar trimestrial (de exemplu, sponsorizările efectuate până la 30 martie pot fi deduse, în limitele precizate mai sus, din impozitul de plată la 25 aprilie).\r\n\n\n\n**Ai un PFA?**\n\nNu doar SRL-urile pot face sponsorizări deductibile. Persoanele fizice autorizate pot face cheltuieli cu sponsorizarea, deductibile  în limita a 5% din venitul net, stabilit ca diferență între venit brut și cheltuielile deductibile (altele decât cheltuielile cu sponsorizarea)."
+section4: >-
+  DONEAZĂ
+
+
+  Ți-a plăcut vreunul dintre proiectele noastre și ai dori să contribui la
+  continuitatea acestuia?
+
+
+  Poți să ne susții activitatea donând în contul bancar de mai jos.
+
+
+  Poți fie să ne ajuți cu o sumă singulară, sau - la alegerea ta - stabili o
+  suma lunară care să fie direcționată către contul nostru.
+
+
+
+
+  Asociația Educalise
+
+
+  Cod Înregistare Fiscală 40957288
+
+
+  Cont bancar: RO22RNCB0837163283860001, deschis la BCR Memorandumului
+  Cluj-Napoca
 section5: ZIUA MEA DE NASTERE
-video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+video: 'https://ucarecdn.com/667b1fd3-3e2f-4efa-8749-418dab07e279/'
+videoPoster: 'https://ucarecdn.com/00fbc9f8-c41f-44b1-a951-b39298825439/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
-accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+accordion: []
+gallery: []
 meta:
   description: This is a meta description.
   title: Donatii
