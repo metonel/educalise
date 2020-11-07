@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: default
 title: Media
-featuredImage: 'https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/'
+featuredImage: 'https://ucarecdn.com/63afe90f-5085-4eb2-bda1-55d62968524f/'
 meta:
   description: test meta description
   title: test meta title
