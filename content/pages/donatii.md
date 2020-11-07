@@ -2,7 +2,7 @@
 template: DonatiiPage
 slug: donatii
 title: Fii parte din povestea noastră.
-featuredImage: 'https://ucarecdn.com/aca25c86-c543-4848-a94a-897aa561eee6/'
+featuredImage: 'https://ucarecdn.com/f766536e-9c77-4fec-87c8-7f9dd8d17941/'
 subtitle: Ajută-ne să ajutăm!
 section1: >-
   ## **DIRECȚIONEAZĂ DIN IMPOZITUL PE VENIT**
