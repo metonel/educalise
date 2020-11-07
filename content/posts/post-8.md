@@ -20,8 +20,6 @@ Bunica Irina crește singură cinci nepoți, cu vârste cuprinse între 5 și 13
 
 Renovarea  casei a început cu repararea acoperișului. Odată ce acesta a fost izolat, am continuat  cu renovarea interiorului: geamuri termopan, ușă la intrare, izolarea și îndreptarea pereților, despărțirea camerelor fără ușă și montarea unei sobe noi care să nu mai afume locuința.
 
-
-
 ![](https://ucarecdn.com/12017ca3-08cd-4a21-9bce-ea68b671f609/-/preview/-/enhance/13/)
 
 ![]()
