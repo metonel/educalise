@@ -29,8 +29,6 @@ Vesel pentru cele primite, Alex s-a apucat cu mama de pregătiri și a fost - î
 
 ![](https://ucarecdn.com/a52b31bb-fe63-4a13-ad88-556fc313a8a0/)
 
- 
-
 Ne bucurăm că am reușit să trimitem și jucării și cărți, cu puțin înainte de ziua Lucicăi. La mulți ani, copil vesel! Iar vouă, tuturor celor care ne-ați ajutat cu donațiile, vă mulțumim din suflet!
 
 ![](https://ucarecdn.com/9b3eb39e-ae77-4e2d-85d4-a46a9be1af20/)
