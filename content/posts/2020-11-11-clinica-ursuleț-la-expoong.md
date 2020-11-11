@@ -6,6 +6,8 @@ date: '2019-06-21'
 excerpt: >-
   Asociația Educalise a participat la târgul EXPO ONG organizat de C.FAC Cluj în
   spațiul expozițional de la Iulius Mall.
+categories:
+  - category: Medical
 ---
 Asociația Educalise a participat la târgul EXPO ONG organizat de C.FAC Cluj în spațiul expozițional de la Iulius Mall. Acest eveniment dedicat ONG-urilor a fost primul eveniment public la care asociația noastră a interacționat cu publicul.
 
