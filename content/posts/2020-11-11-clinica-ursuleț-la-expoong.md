@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Clinica Ursuleț la ExpoONG
+title: Clinica Ursuleț @ ExpoONG
 status: Published
 date: '2019-06-21'
 excerpt: >-
