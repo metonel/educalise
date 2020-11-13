@@ -59,10 +59,6 @@ export const pageQuery = graphql`
         video
         videoPoster
         videoTitle
-        accordion {
-          title
-          description
-        }
       }
     }
   }
