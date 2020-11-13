@@ -67,9 +67,6 @@ export class Navigation extends Component {
               >
                 Proiecte
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
-                    Toate Proiectele
-                  </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
                     to={link.slug}
@@ -79,12 +76,15 @@ export class Navigation extends Component {
                       {link.title}
                     </NavLink>
                   ))}
+                  <NavLink to="/blog/" className="Nav--GroupLink">
+                    Toate Proiectele
+                  </NavLink>
                 </div>
               </span>
             </div>
             <NavLink to="/components/">Voluntari</NavLink>
             <NavLink to="/donatii/">Donatii</NavLink>
-            <NavLink to="/default/">Media</NavLink>
+            {/* <NavLink to="/default/">Media</NavLink> */}
             <NavLink to="/default/">Parteneri</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
