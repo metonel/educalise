@@ -103,6 +103,17 @@
   width: 15rem;
 }
 
+.Nav--NameMobile {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 601px) {
+  .Nav--NameMobile {
+    display: none;
+  }
+}
+
 @media (max-width: 600px) {
   .Nav--Container {
     display: flex;

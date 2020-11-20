@@ -48,6 +48,7 @@ export class Navigation extends Component {
           <Link to="/" onClick={this.handleLinkClick}>
             <Logo />
           </Link>
+          <div className="Nav--NameMobile">Educalise</div>
           <div className="Nav--Links">
             <NavLink to="/">Despre noi</NavLink>
             <div
