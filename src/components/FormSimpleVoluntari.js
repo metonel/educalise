@@ -138,7 +138,7 @@ class Form extends React.Component {
               name="ocupatie"
               required
             />
-            <span>Ocupatie</span>
+            <span>Ocupație</span>
           </label>
           
           <label className="Form--Label">
@@ -149,7 +149,7 @@ class Form extends React.Component {
               rows="10"
               required
             />
-            <span>Descrie-te in cateva cuvinte:</span>
+            <span>Descrie-te în câteva cuvinte:</span>
           </label>
 
           <label className="Form--Label">
@@ -160,7 +160,7 @@ class Form extends React.Component {
               rows="10"
               required
             />
-            <span>Care sunt super-puterile tale si cum te poti implica in proiectele Educalise?</span>
+            <span>Care sunt super-puterile tale și cum te poți implica în proiectele Educalise?</span>
           </label>
           
           <div
