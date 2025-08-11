@@ -14,13 +14,9 @@ categories:
 ---
 La Educalise , credem că fiecare zi de naștere poate deveni un prilej de a face bine. Alături de oameni cu inimi mari, transformăm cadourile în fapte — iar dorințele lor devin realitate pentru cei care au nevoie cel mai mult.
 
-****
+- - -
 
-
-
-
-
-Campania „Îmi donez ziua” a luat fiinta inca din 2022 cand totul a inceput cu o donare de carti pentru  dotarea unei biblioteci care sa vina in sprijinul opiilor din comunități vulnerabile, oferindu-le acces la lectură, cunoaștere și noi oportunități. Această bibliotecă nu este doar un raft plin de cărți, ci o poartă deschisă spre imaginație, educație și visuri mai mari. Fiecare volum donat devine o șansă în plus pentru un copil de a descoperi lumi noi și de a crede în propriul viitor.
+Campania „Îmi donez ziua” a luat fiinta inca din 2022 cand totul a inceput cu o donare de carti pentru  dotarea unei biblioteci care sa vina in sprijinul copiilor din comunități vulnerabile, oferindu-le acces la lectură, cunoaștere și noi oportunități. Această bibliotecă nu este doar un raft plin de cărți, ci o poartă deschisă spre imaginație, educație și visuri mai mari. Fiecare volum donat devine o șansă în plus pentru un copil de a descoperi lumi noi și de a crede în propriul viitor.
 
 ![](https://ucarecdn.com/11265953-9cbd-428d-9e7b-f26d1511af1b/)
 
@@ -46,14 +42,8 @@ Fiecare zi donată înseamnă:
 
 🍲 mese calde pentru familii aflate în dificultate.
 
-
-
-
-
 🎁 Vrei și tu să-ți donezi ziua și să o transformi în ceva cu adevărat memorabil?
 
 👉 \[Buton: Donează-ți ziua aici]
-
-
 
 Împreună, scriem povești frumoase. Mulțumim că alegi să fii parte din schimbare!
