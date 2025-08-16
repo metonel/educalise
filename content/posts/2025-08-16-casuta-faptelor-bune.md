@@ -20,11 +20,7 @@ Aici, copiii nu doar primesc sprijin, ci sunt încurajați să devină, la rând
 
 ![](https://ucarecdn.com/cf60e726-c40c-4df8-8d1b-d8246509dadb/)
 
-
-
 Tot la Daisy se organizează sesiuni periodice de educație medicală, adaptate vârstei copiilor, prin care voluntarii și specialiștii îi ajută să înțeleagă importanța igienei personale, a alimentației sănătoase și a prevenției. Activitățile sunt interactive și accesibile, transformând informațiile importante într-o experiență plăcută și ușor de reținut pentru cei mici. Am inceput de la intocmirea fisei pacientului, am continuat cu descrierea simptomelor, consultul medical, sala de operatii si farmacia.
-
-
 
 ![](https://ucarecdn.com/1e8f8c61-ed11-48ef-aa59-7babe9800e2e/)
 
@@ -36,12 +32,10 @@ Tot la Daisy se organizează sesiuni periodice de educație medicală, adaptate 
 
 Daisy este și locul în care voluntarii Educalise se mobilizează, în fiecare an, pentru a pregăti pachetele speciale de Crăciun, pachetele de Paște și rechizitele pentru începerea școlii. Este un adevărat „atelier al faptelor bune”, unde se strâng donații și se împachetează cu grijă tot ceea ce le va aduce copiilor bucurie – fie că este vorba de jucării, haine, dulciuri sau materiale educative.
 
-
-
 Munca voluntarilor se îmbină cu energia copiilor și cu sprijinul comunității, iar fiecare acțiune devine o poveste despre speranță, educație și implicare.
-
-
 
 ![](https://ucarecdn.com/7985dae1-d9b0-477c-9bec-73c9a74b1281/)
 
 ![](https://ucarecdn.com/77ed37ce-e501-473f-91ad-3f9cedd8317f/)
+
+Prin tot ceea ce face **Asociația Educalise**, la **Daisy – Căsuța faptelor bune**,  arata că schimbarea începe cu gesturi simple și sincere. Este un loc în care copiii învață să dăruiască, primesc sprijinul de care au nevoie și cresc într-un mediu în care bunătatea este un mod de viață.
