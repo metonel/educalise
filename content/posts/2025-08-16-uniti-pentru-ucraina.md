@@ -13,11 +13,7 @@ excerpt: >-
 categories:
   - category: Social
 ---
-
-
 Grijă, sprijin și umanitate pentru cei mai mici dintre noi
-
-
 
 În momentele în care războiul răpește siguranța copilăriei, noi alegem să oferim grijă.
 
@@ -37,15 +33,9 @@ De aceea, implicarea Asociației Educalise nu a fost doar despre obiecte și don
 
 Războiul lasă urme adânci, dar prin empatie, bunătate și implicare putem atenua o parte din durere. Pentru că atunci când un om aflat în nevoie este primit cu căldură, o bucată din “acasă” începe să prindă contur din nou, chiar și într-un loc străin.
 
-
-
-
-
 ![](https://ucarecdn.com/b8c8570e-fa78-41da-87a9-3958795ce7e9/)
 
 Fiecare donație a fost pregătită cu responsabilitate și empatie, gândindu-ne la confortul și siguranța copiilor care au fost nevoiți să își părăsească căminul.
-
-
 
 ![](https://ucarecdn.com/b5de4bc1-f48b-496f-be01-2ffa793ac2f6/)
 
