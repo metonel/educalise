@@ -39,7 +39,11 @@ Asociația Educalise crede cu tărie că fiecare copil are dreptul să învețe,
 
 ![](https://ucarecdn.com/8ce11137-3c3b-4926-a5b5-316a449e4444/)
 
+![](https://ucarecdn.com/78cefe67-7eee-4e11-a728-8c2d474dec35/)
 
+![](https://ucarecdn.com/e9e4c7c9-9635-45a2-90b0-1801abd5892d/)
+
+![](https://ucarecdn.com/086f3302-4b96-43bb-9ba6-e7ccf7f5dcd9/)
 
 Dincolo de aceste obiecte, oferim o șansă. Șansa de a sta în prima bancă fără rușine, șansa de a răspunde la lecție cu încredere, șansa de a visa că într-o zi vor deveni doctori, profesori sau ingineri. Educația schimbă destine, iar sprijinul oferit la început poate face diferența pentru întreaga viață a unui copil.
 
@@ -47,10 +51,6 @@ Dincolo de aceste obiecte, oferim o șansă. Șansa de a sta în prima bancă f�
 
 În spatele fiecărui ghiozdan se află un voluntar care a pus suflet în pregătirea lui și un copil care își dorește doar să fie ascultat, încurajat și susținut.
 
-Prin campania „Vreau la școală”, Educalise aduce alături oameni care cred că educația este cea mai puternică formă de investiție în viitor – o investiție care nu se pierde niciodată. Incercam sa 
-
-
-
-
+Prin campania „Vreau la școală”, Educalise aduce alături oameni care cred că educația este cea mai puternică formă de investiție în viitor – o investiție care nu se pierde niciodată. 
 
 📚 Pentru că acolo unde există educație, există speranță.
