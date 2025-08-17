@@ -29,11 +29,17 @@ Asociația Educalise crede cu tărie că fiecare copil are dreptul să învețe,
 
 – cărți, manuale și materiale educative,
 
-– dar și laptopuri pentru copiii care învață în sistem hibrid sau online și nu au acces la tehnologie.
+– laptopuri pentru copiii care învață în sistem hibrid sau online și nu au acces la tehnologie
+
+\- dar și materiale complementare pentru învățare, precum 📖🔭 enciclopedii, 🧩 🃏 puzzle-uri, ♟️🎲 jocuri logice și activități interactive ce stimulează curiozitatea și gândirea creativă.
+
+
 
 ![](https://ucarecdn.com/eda371de-cd0e-4cdd-83b7-04df6c432b00/)
 
 ![](https://ucarecdn.com/8ce11137-3c3b-4926-a5b5-316a449e4444/)
+
+
 
 Dincolo de aceste obiecte, oferim o șansă. Șansa de a sta în prima bancă fără rușine, șansa de a răspunde la lecție cu încredere, șansa de a visa că într-o zi vor deveni doctori, profesori sau ingineri. Educația schimbă destine, iar sprijinul oferit la început poate face diferența pentru întreaga viață a unui copil.
 
@@ -41,7 +47,9 @@ Dincolo de aceste obiecte, oferim o șansă. Șansa de a sta în prima bancă f�
 
 În spatele fiecărui ghiozdan se află un voluntar care a pus suflet în pregătirea lui și un copil care își dorește doar să fie ascultat, încurajat și susținut.
 
-Prin campania „Vreau la școală”, Educalise aduce alături oameni care cred că educația este cea mai puternică formă de investiție în viitor – o investiție care nu se pierde niciodată.
+Prin campania „Vreau la școală”, Educalise aduce alături oameni care cred că educația este cea mai puternică formă de investiție în viitor – o investiție care nu se pierde niciodată. Incercam sa 
+
+
 
 
 
