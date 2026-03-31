@@ -28,6 +28,7 @@
 ## Show me the CMS!
 
 The CMS lives at [\_\_YOUR_SITE_NAME\_\_.netlify.com/admin](https://__YOUR_SITE_NAME__.netlify.com/admin).
+Current interm location: [https://happy-swirles-c4c6a1.netlify.app/admin/#/]
 
 ## Developing
 
